@@ -1,0 +1,63 @@
+body{
+	background-color:#c4c3d0;
+	background-size:cover;
+	background-repeat: no-repeat;
+	}
+header .items ul li{
+	background-color: #555d50;
+}
+.items ul{
+	float:left;
+	list-style-type:none;
+	margin-top:25px;
+	margin-left:-1px;
+	align-items:center;
+}
+.items ul li{
+	display:inline-block;
+}
+.items ul li a{
+	text-decoration:none;
+	color:#fff;
+	padding:5px 10px;
+	Letter-spacing:1px;
+	font-size:20px;
+}
+.items ul li a:hover{
+	color:#000;
+}
+.hike{
+	padding:100px;
+}
+.hike .h1{
+	margin-top:-50px;
+	margin-right:500px;
+	margin-left:500px;
+	background-color:#faebd7;
+	font-size:25px;
+	padding:5px;
+	text-align:center;
+	font-size:30px;
+}
+.option ol li a{
+	text-decoration:none;
+	color:#a45a52;
+	font-size:18px;
+}
+p{
+	font-size:18px;
+}
+.info h1{
+	background-color:#b48395;
+	font-size:28px;
+	padding:5px;
+}
+th{
+	color:#cb410b;
+	font-size:20px;
+}
+.footer{
+	color: #ffffff;
+	background-color: #556b2f;
+	clear: left;
+}
