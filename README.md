@@ -17,7 +17,7 @@ The goal of this project is to:
 💡 Interactive Elements: Basic JavaScript for dynamic effects (like form validation or toggling menus)
 
 📁 **Folder Structure**
-FinalHTMLProject/
+HTMLProject/
 
 
 ├── index.html              # Main landing page
