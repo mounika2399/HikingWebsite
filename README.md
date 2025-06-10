@@ -18,7 +18,8 @@ The goal of this project is to:
 
 📁 **Folder Structure**
 FinalHTMLProject/
-│
+
+
 ├── index.html              # Main landing page
 
 ├── about.html              # About or bio page (optional)
@@ -26,9 +27,11 @@ FinalHTMLProject/
 ├── contact.html            # Contact form
 
 ├── css/
+
 │   └── style.css           # Main stylesheet
 
 ├── js/
+
 │   └── script.js           # JavaScript interactions
 
 ├── images/                 # Project images and assets
